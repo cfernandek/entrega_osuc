@@ -1,2 +1,5 @@
-# entrega_osuc
-Repositorio de Entrega Actividad de Git y Github osuc
+# Entrega OSUC
+Repositorio de Entrega Actividad de Git y Github OSUC
+
+# Propiertaria
+## Catalina Fernandez Katz
